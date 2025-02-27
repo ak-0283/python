@@ -8,9 +8,17 @@
 # calc_sum(5,10)
 
 
-# or easiest way to do 
-def calc_sum(a,b):
-    return a+b
+# # or easiest way to do 
+# def calc_sum(a,b):
+#     return a+b
 
-sum = calc_sum(1,3)
-print(sum)
+# sum = calc_sum(1,3)
+# print(sum)
+
+
+# or
+def print_hello():
+    print("hello world")
+
+
+print_hello()
