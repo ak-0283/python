@@ -10,6 +10,7 @@
 # print(a**b)  #to find the power operator
 
 
+
 # # relational operator
 # print(a==b)  #false
 # print(a!=b) #true
@@ -28,7 +29,7 @@ print(not True)
 print(not False)
 
 
-# and operator
+# And operator
 val1 = True
 val2 = True
 val3 = False
