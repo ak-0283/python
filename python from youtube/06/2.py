@@ -6,4 +6,5 @@ def avg(a,b,c):
     print(avg)
     return avg
 
+
 avg(1,2,3)
