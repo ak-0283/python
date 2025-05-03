@@ -34,7 +34,7 @@ Welcome to my learning repository where I document everything I’ve studied abo
 ---
 
 ## 🧰 Tools I Used
-- 🐍 Python 3.x  
+- 🐍 Python 
 - 🔢 NumPy  
 - 💻 Jupyter Notebook / VSCode / PyCharm
 
