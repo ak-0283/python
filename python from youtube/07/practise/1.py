@@ -19,6 +19,7 @@
 #     f.write(new_data)
 
 
+
 def check_for_word(): 
     word = "learning"
     with open("practice.txt","r") as f:
