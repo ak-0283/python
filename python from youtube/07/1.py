@@ -31,8 +31,6 @@
 # f.write("abc")
 # f.close()
 
-
-
 # with open("demo.txt","r") as f:
 #     data = f.read()
 #     print(data)
