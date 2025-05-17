@@ -25,7 +25,6 @@
 # print(f.read())
 # f.close()
 
-
 # f=open("demo.txt","w+")
 # print(f.read())
 # f.write("abc")
