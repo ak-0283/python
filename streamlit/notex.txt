@@ -1,0 +1,7 @@
+to run the file -> streamlit run filename(which we want to run)
+
+to setup the file
+1. first create the virtual environment -> python -m venv .venv
+2. windows powershell -> .venev\Scripts\activate
+3. install streamlit -> pip install streamlit
+4. now create your fist streamlit app
