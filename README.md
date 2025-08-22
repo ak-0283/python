@@ -1,6 +1,5 @@
-Perfect 👍 Here’s the full **copy-paste ready README** with the Streamlit section included:
+---
 
-````markdown
 # 🐍 Python & 🔢 NumPy Learning Journey
 
 Welcome to my learning repository where I document everything I’ve studied about **Python**, **NumPy**, and now **Streamlit** via 📺 YouTube tutorials!
@@ -10,41 +9,44 @@ Welcome to my learning repository where I document everything I’ve studied abo
 ## 📘 What I’ve Learned
 
 ### 🐍 Python Basics
-- ✏️ Variables & Data Types  
-- 🔁 Loops & Conditionals  
-- 🧮 Functions & Modules  
-- 📁 File Handling  
-- 🛑 Exception Handling  
+
+* ✏️ Variables & Data Types
+* 🔁 Loops & Conditionals
+* 🧮 Functions & Modules
+* 📁 File Handling
+* 🛑 Exception Handling
 
 ### 🔢 NumPy Essentials
-- 📐 Creating Arrays  
-- 🔍 Indexing & Slicing  
-- ➕ Arithmetic & Vectorized Operations  
-- 🚀 Broadcasting  
-- 🧮 Aggregations & Stats  
-- 📊 Multidimensional Arrays  
+
+* 📐 Creating Arrays
+* 🔍 Indexing & Slicing
+* ➕ Arithmetic & Vectorized Operations
+* 🚀 Broadcasting
+* 🧮 Aggregations & Stats
+* 📊 Multidimensional Arrays
 
 ### 🎨 Frontend with Streamlit
-- ⚡ Learned from **Chai aur Code** tutorials  
-- 🖥️ Build interactive Python apps easily  
-- ▶️ Run apps with:  
+
+* ⚡ Learned from **Chai aur Code** tutorials
+* 🖥️ Build interactive Python apps easily
+* ▶️ Run apps with:
+
   ```bash
   streamlit run filename.py
-````
-
+  ```
 * ⚙️ Setup steps:
 
-  1. Create a virtual environment →
+  1. Create a virtual environment
 
      ```bash
      python -m venv .venv
      ```
-  2. Activate it (Windows PowerShell) →
+  2. Activate it (Windows PowerShell)
 
      ```bash
      .venv\Scripts\activate
      ```
-  3. Install Streamlit →
+  3. Install Streamlit
 
      ```bash
      pip install streamlit
@@ -89,6 +91,4 @@ Welcome to my learning repository where I document everything I’ve studied abo
 Thanks for checking out my progress! 💪
 Feel free to explore and reach out if you have any learning tips to share! 😊
 
-```
-Would you like me to also give you a **ready-to-run `app.py` Streamlit demo file** (like a simple “Hello, Streamlit!” app) so your repo has an instant example?
-```
+---
