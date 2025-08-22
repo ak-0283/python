@@ -9,31 +9,25 @@ Welcome to my learning repository where I document everything I’ve studied abo
 ## 📘 What I’ve Learned
 
 ### 🐍 Python Basics
-
-* ✏️ Variables & Data Types
-* 🔁 Loops & Conditionals
-* 🧮 Functions & Modules
-* 📁 File Handling
-* 🛑 Exception Handling
+* ✏️ Variables & Data Types  
+* 🔁 Loops & Conditionals  
+* 🧮 Functions & Modules  
+* 📁 File Handling  
+* 🛑 Exception Handling  
 
 ### 🔢 NumPy Essentials
-
-* 📐 Creating Arrays
-* 🔍 Indexing & Slicing
-* ➕ Arithmetic & Vectorized Operations
-* 🚀 Broadcasting
-* 🧮 Aggregations & Stats
-* 📊 Multidimensional Arrays
+* 📐 Creating Arrays  
+* 🔍 Indexing & Slicing  
+* 📊 Multidimensional Arrays  
 
 ### 🎨 Frontend with Streamlit
-
-* ⚡ Learned from **Chai aur Code** tutorials
-* 🖥️ Build interactive Python apps easily
+* ⚡ Learned from **Chai aur Code** tutorials  
+* 🖥️ Build interactive Python apps easily  
 * ▶️ Run apps with:
-
   ```bash
   streamlit run filename.py
   ```
+
 * ⚙️ Setup steps:
 
   1. Create a virtual environment
@@ -65,30 +59,36 @@ Welcome to my learning repository where I document everything I’ve studied abo
 
 ## 🧰 Tools I Used
 
-* 🐍 Python
-* 🔢 NumPy
-* 🎨 Streamlit
-* 💻 Jupyter Notebook / VSCode / PyCharm
+* 🐍 Python  
+* 🔢 NumPy  
+* 🎨 Streamlit  
+* 💻 VSCode / Google Collab 
 
 ---
 
 ## 🚀 Why This Repo Exists
 
-* ✍️ Reinforce my learning through practice
-* 📒 Keep track of concepts covered
-* 📚 Use as a reference for future projects
+* ✍️ Reinforce my learning through practice  
+* 📒 Keep track of concepts covered  
+* 📚 Use as a reference for future projects  
 
 ---
 
 ## 🔮 What's Next?
 
-* 📊 Learn Pandas & Matplotlib
-* 🧠 Work on mini Data Science projects
-* 🤖 Dive into machine learning
+* 📊 Learn Pandas & Matplotlib  
+* 🧠 Work on mini Data Science projects  
+* 🤖 Dive into machine learning  
 
 ---
 
-Thanks for checking out my progress! 💪
+## 🌟 Current Focus
+
+Right now, I am **deep diving into Machine Learning (ML)** 🤖📈
+
+---
+
+Thanks for checking out my progress! 💪  
 Feel free to explore and reach out if you have any learning tips to share! 😊
 
 ---
