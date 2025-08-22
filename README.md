@@ -57,7 +57,7 @@ Welcome to my learning repository where I document everything I’ve studied abo
 
 ---
 
-🌦️ **My Streamlit Project**  
+## 🌦️ **My Streamlit Project**  
 I’ve created a **Weather Dashboard** using Streamlit! Check it out here: [Weather Dashboard](https://weatherst.streamlit.app/)
 
 
