@@ -1,6 +1,6 @@
 ---
 
-# 🐍 Python & 🔢 NumPy Learning Journey
+# 🐍 Python Learning Journey
 
 Welcome to my learning repository where I document everything I’ve studied about **Python**, **NumPy**, and now **Streamlit** via 📺 YouTube tutorials!
 
@@ -51,7 +51,9 @@ Welcome to my learning repository where I document everything I’ve studied abo
 
 ## 🎥 YouTube Channels I Followed
 
-* ☕ [Chai aur Code](https://www.youtube.com/@chaiaurcode)
+* 📚 [Shraddha Khapra](https://youtube.com/@shradhakd?feature=shared)
+* ☕ [Chai aur Code](https://youtube.com/@chaiaurcode?feature=shared)
+* 🎯 [Siddhardhan](https://youtube.com/@siddhardhan?feature=shared)
 
 > 📝 *Big thanks to all these creators for their high-quality tutorials!*
 
