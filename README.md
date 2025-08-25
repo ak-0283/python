@@ -1,6 +1,6 @@
 ---
 
-# 🐍 Python Learning Journey
+# 🐍 Python Learning Journey With ML & DL
 
 Welcome to my learning repository where I document everything I’ve studied about **Python**, **NumPy**, and now **Streamlit** via 📺 YouTube tutorials!
 
