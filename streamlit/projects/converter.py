@@ -75,15 +75,15 @@ st.write('👉 You selected:', option)
 
 percentage = None
 
-# Conversion logic
+# Conversion logic using sliders
 if option == 'SGPA to Percentage':
-    sgpa = st.number_input('Enter your SGPA:', min_value=0.0, max_value=10.0, step=0.01)
+    sgpa = st.slider("Select your SGPA:", 0.0, 10.0, 5.0, 0.01)
     if st.button('Convert to Percentage'):
         percentage = (sgpa - 0.75) * 10
         st.success(f'🎯 Your Percentage is: {percentage:.2f}%')
 
 else:
-    cgpa = st.number_input('Enter your CGPA:', min_value=0.0, max_value=10.0, step=0.01)
+    cgpa = st.slider("Select your CGPA:", 0.0, 10.0, 5.0, 0.01)
     if st.button('Convert to Percentage'):
         percentage = (cgpa - 0.75) * 10
         st.success(f'🎯 Your Percentage is: {percentage:.2f}%')
