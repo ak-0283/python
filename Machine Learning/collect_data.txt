@@ -1,0 +1,5 @@
+where to collect the data
+
+1. kaggle -> https://www.kaggle.com/
+2. uci machine learning repo -> https://archive.ics.uci.edu/
+3. google dataset search  -> https://datasetsearch.research.google.com/
