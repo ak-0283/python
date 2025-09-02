@@ -1,0 +1,3 @@
+ml project workflow 
+
+data -> data pre processing -> data analysis -> train test split -> ml model -> evaluation
